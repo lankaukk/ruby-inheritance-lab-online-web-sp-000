@@ -5,4 +5,5 @@ KNOWLEDGE = []
 def initialize
   
 end
+
 end
